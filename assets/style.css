@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Vazir";
+    src: url(./fonts/Vazirmatn-Regular.ttf);
+}
+
+body,
+.vpn-features {
+    background-color: #eeffff;
+    font-family: "Vazir";
+}
+
+.feature-list {
+    font-size: small;
+}
+
+.page-footer {
+    background-color: #f8f9fa;
+}
+
+.icons {
+    font-size: 50px;
+}
+
+.contact-us-container{
+    background-color: #f8f9fa;
+}
